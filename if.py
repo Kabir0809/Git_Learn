@@ -12,3 +12,5 @@ if dish in indian:
     print("indian")
 elif dish in chinese:
     print("chinese")
+else:
+    print("Italian")
